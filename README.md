@@ -5,7 +5,7 @@ Bibliografía
 ------------
 
 ### Computabilidad
-- Computability, Complexity, and Languages, de Martin Davis, Ron Sigal y Elaine Weyuker (Los temas que se verán en la parte de computabilidad de la materia son los comprendidos en los capítulos 1 a 4 de este libro)
+- [Computability, Complexity, and Languages, de Martin Davis, Ron Sigal y Elaine Weyuker](davis-sigal-elaine_computability-complexity-and-languages_2nd-edition.pdf) (Los temas que se verán en la parte de computabilidad de la materia son los comprendidos en los capítulos 1 a 4 de este libro)
 
 ### Lógica
 * A Mathematical Introduction to Logic, Herbert Enderton
