@@ -28,19 +28,19 @@ Sea 𝒞 una clase cerrada por composición que contiene las funciones iniciales
     uno(x) = s(n(x)) = s(0) = 1
 2. id: ℕ→ℕ, id(x) = x.
     
-    **ToDo:**
+    id(x) = u¹₁(x)
 3. s₁: ℕ²→ℕ, s₁(x,y) = x+1.
     
-    s₁(x,y) = s(u²ᵢ(x,y)).
+    s₁(x,y) = s(u²₁(x,y)) = s(x) = x+1
 4. f~: ℕ²→ℕ, f~(x,y) = f(y,x) sabiendo que f: ℕ²→ℕ ∈ 𝒞.
     
-    f~(x,y) = f(u²₂(x,y), u²ᵢ(x,y))
+    f~(x,y) = f(u²₂(x,y), u²₁(x,y)) = f(y,x)
 5. fₓₖ: ℕᵏ→ℕ, fₓₖ(x₁,⋯,xₖ) = f(x₁) sabiendo que f: ℕ→ℕ ∈ 𝒞.
     
-    fₓₖ(x₁,⋯,xₖ) = f(uᵏ₁(x₁,⋯,xₖ))
+    fₓₖ(x₁,⋯,xₖ) = f(uᵏ₁(x₁,⋯,xₖ)) = f(x₁)
 6. f/ₖ: ℕ→ℕ, f/ₖ(x) = f(x,x,⋯,x) sabiendo que f: Nᵏ→ℕ ∈ 𝒞.
     
     f/ₖ(x) = f(u¹₁(x),u¹₁(x),⋯,u¹₁(x))
 7. p(x): ℕ→ℕ, p(x) = x ∸ 1.
     
-    **ToDo:**
+    No se puede. **Demostración en otro ejercicio**.
