@@ -20,7 +20,6 @@ Una clase 𝒞 es cerrada por composición, si ∀_f,g₁,⋯,gₖ_ ∈ 𝒞, y 
 
 Ejercicio 1
 -----------
-
 Sea 𝒞 una clase cerrada por composición que contiene las funciones iniciales. Ver que están en 𝒞:
 
 1. uno: ℕ→ℕ, uno(x) = 1.
@@ -44,3 +43,7 @@ Sea 𝒞 una clase cerrada por composición que contiene las funciones iniciales
 7. p(x): ℕ→ℕ, p(x) = x ∸ 1.
     
     No se puede. **Demostración en otro ejercicio**.
+
+Ejercicio 2
+-----------
+Sea 𝒞 la clase mas chica que contiene las funciones iniciales y está cerrada por composición. Sea f: ℕⁿ→ℕ ∈ 𝒞. Demostrar que existen i∈ℕ y g:ℕ→ℕ tal que f = g∘uⁿᵢ.
